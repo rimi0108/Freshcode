@@ -4,8 +4,6 @@
   - [프레시코드](https://freshcode.com/)
   - [wanted 채용공고 링크](https://www.wanted.co.kr/company/4865)
 
-## Project Link
-📎 배포주소 |
 
 ## 💁‍♀️ Members
 |이름   |github                   |담당 기능|
@@ -18,6 +16,9 @@
 
 
 ## ⭐ 과제 내용
+
+<details>
+    <summary>내용 보기</summary>
 
 ### [필수 포함 사항]
 - Swagger나 Postman을 이용하여 API 테스트 가능하도록 구현
@@ -110,6 +111,7 @@
         }
 
         ```
+</details>
 
 ## 🛠 사용 기술 및 tools
 > - Back-End :  <img src="https://img.shields.io/badge/Python 3.8-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Django 3.2-092E20?style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
