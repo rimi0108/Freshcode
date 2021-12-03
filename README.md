@@ -5,14 +5,8 @@
   - [wanted 채용공고 링크](https://www.wanted.co.kr/company/4865)
 
 
-## 💁‍♀️ Members
-|이름   |github                   |담당 기능|
-|-------|-------------------------|--------------------|
-|신재민 |[shinjam](https://github.com/shinjam)     | 테스트 코드   |
-|신우주 |[shinwooju](https://github.com/shinwooju)     | 상품 CRUD   |
-|최혜림 |[rimi0108](https://github.com/rimi0108)     | 로그인   |
-|강성묵 |[miranaky](https://github.com/miranaky)     | 로그인   |
-|김민규 |[SkyStar-K](https://github.com/SkyStar-K)     | 상품 CRUD  |
+## 💁‍♀️ 맡은 기능
+로그인 기능 
 
 
 ## ⭐ 과제 내용
